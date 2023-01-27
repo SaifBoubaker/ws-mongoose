@@ -15,7 +15,7 @@ mongoose.connect(
 async function start() {
   //   const person1 = await User.create({
   //     name: "saif",
-  //     age: 25,
+  //     age: 27,
   //     hobbies: ["Swimming"]
   //   });
   //   const users = await User.find({ name: "saif" });
