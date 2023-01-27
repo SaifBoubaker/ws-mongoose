@@ -16,7 +16,7 @@ async function start() {
   //   const person1 = await User.create({
   //     name: "saif",
   //     age: 25,
-  //     hobbies: ["Swimming"],
+  //     hobbies: ["Swimming"]
   //   });
   //   const users = await User.find({ name: "saif" });
   //   console.log(users);
